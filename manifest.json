@@ -6,5 +6,13 @@
     "author": "deracul",
     "version": "1.0.0",
     "codeUrl": "./plugins/compiled_dynamic.js"
+  },
+  {
+    "id": "test",
+    "name": "test.js",
+    "description": "Test plugin",
+    "author": "your-name",
+    "version": "1.0.0",
+    "codeUrl": "./plugins/test.js"
   }
 ]
