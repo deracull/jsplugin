@@ -1,0 +1,10 @@
+[
+  {
+    "id": "fakedeafen",
+    "name": "deracul fake voice shit",
+    "description": "Fake mute, deafen, and camera with real-time gateway push",
+    "author": "deracul",
+    "version": "1.0.0",
+    "codeUrl": "./plugins/compiled_dynamic.js"
+  }
+]
